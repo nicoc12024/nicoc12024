@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 Hi 👋, I am Nicolas and I am passioante about Front-end development.
 
