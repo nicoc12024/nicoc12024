@@ -1,9 +1,9 @@
 ### Hi 👋, I am Nicolas and I am passioante about Front-end development.
 
-- 🔭 I’m currently working on shaping my skills with **JavaScript
-- 🌱 I’m currently learning **React
-- 👯 I’m looking to collaborate on **Front-end projects
-- 💬 Ask me about **CSS** and **JavaScript
+- 🔭 I’m currently working on shaping my skills with **JavaScript**
+- 🌱 I’m currently learning **React**
+- 👯 I’m looking to collaborate on **Front-end projects**
+- 💬 Ask me about **CSS** and **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
