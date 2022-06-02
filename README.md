@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **React**.
 - 👯 I’m looking to collaborate on **Front-end projects**.
 - 💬 Ask me about **CSS** and **JavaScript**.
-- 🐱‍💻 Portfolio: <a href="https://nicoc12024.github.io/portfolio/">Portfolio</a>
+- 🐱‍💻 Portfolio: <a href="https://nicoc12024.github.io/portfolio/" target="_blank">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
