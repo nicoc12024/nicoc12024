@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on shaping my skills with **JavaScript**.
 - 🌱 I’m currently learning **TypeScript**.
 - 👯 I’m looking to collaborate on **Front-end projects**.
-- 💬 Ask me about **CSS** and **JavaScript**.
+- 💬 Ask me about **CSS**, **JavaScript** or **React**.
 - 🐱‍💻 Portfolio: <a href="https://nicoc12024.github.io/portfolio/" target="_blank">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
