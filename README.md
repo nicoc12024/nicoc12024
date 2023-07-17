@@ -1,6 +1,5 @@
 ### Hi 👋, I am Nicolas and I am passioante about Front-end development.
 
-- 🔭 I’m currently working on shaping my skills with **Python (django)**.
 - 👯 I’m looking to collaborate on **Front-end / Back-end projects**.
 - 💬 Ask me about **CSS**, **JavaScript** or **React**.
 - 🐱‍💻 Portfolio: <a href="https://portfolionextjs-jade.vercel.app/" target="_blank">Portfolio</a>
