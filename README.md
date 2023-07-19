@@ -1,4 +1,4 @@
-### Hi 👋, I am Nicolas and I am passionate about Software development.
+### Hi 👋, I am Nicolas and I am passionate about Software Development.
 
 - I’m looking to collaborate on **Front-end / Back-end projects**.
 - Ask me about **CSS**, **JavaScript** or **React**.
