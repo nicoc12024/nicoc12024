@@ -1,7 +1,7 @@
 ### Hi 👋, I am Nicolas and I am passionate about Software Development.
 
 - I’m looking to collaborate on **Front-end / Back-end projects**.
-- Ask me about **CSS**, **JavaScript/TypeScript**, **React** or **Node/Express**.
+- Ask me about **CSS**, **JavaScript/TypeScript**, **React**, **Node/Express** or **PHP/Laravel**.
 - Portfolio: <a href="https://portfolionextjs-jade.vercel.app/" target="_blank">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
